@@ -63,7 +63,7 @@ on large screens due to text formatting */
     min-height: 120px;
 }
 
-/* Buttons */
+/* buttons */
 
 .custom-button {
     background-color: #1f7798;
@@ -73,6 +73,15 @@ on large screens due to text formatting */
 .custom-button:hover {
     background-color: #1d6d8a;
     border: #1d6d8a
+}
+
+/* contact */
+#contact {
+    background-color: white; 
+}
+
+#contact .form-label {
+    color: #20627b; 
 }
 
 /* Bootstrap breakpoint for xl screens */
