@@ -1,4 +1,4 @@
-# Detais to include in dev portfolio cards
+# Dev portfolio cards content
 
 ## card 1
 
